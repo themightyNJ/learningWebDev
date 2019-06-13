@@ -1,0 +1,414 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"nav",
+				"nav"
+			],
+			[
+				"i",
+				"icon-bar"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"padding-",
+				"padding-top\tproperty"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground-color"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"hea",
+				"header-link"
+			],
+			[
+				"borderc",
+				"border-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"use",
+				"usermessage_1"
+			],
+			[
+				"user",
+				"usermessage"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"usermessage_",
+				"usermessage_1"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1930,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/index.css",
+			"settings":
+			{
+				"buffer_size": 298,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/@themightyNJ/WebDev/Assignment/html-css_Assignment/css/index.css",
+		"/D/@themightyNJ/WebDev/Assignment/html-css_Assignment/index.html",
+		"/D/@themightyNJ/WebDev/Web-Development-master/Module 2 - Bootstrap/Topic 08 - Images/Bootstrap Images/img_responsive_and_rounded.html",
+		"/D/@themightyNJ/WebDev/Web-Development-master/Module 2 - Bootstrap/Topic 07 - Navbar/Creating Navbar Using Bootstrap/responsive_and_fixed_navbar.html",
+		"/D/@themightyNJ/WebDev/Assignment/Bootstrap_Assignment/success.html",
+		"/D/@themightyNJ/WebDev/Assignment/Bootstrap_Assignment/settings.html",
+		"/D/@themightyNJ/WebDev/Assignment/Bootstrap_Assignment/cart.html",
+		"/D/@themightyNJ/WebDev/Assignment/Bootstrap_Assignment/product.html",
+		"/D/@themightyNJ/WebDev/Assignment/Bootstrap_Assignment/signup.html",
+		"/D/@themightyNJ/WebDev/Assignment/Bootstrap_Assignment/login.html",
+		"/D/@themightyNJ/WebDev/Assignment/Bootstrap_Assignment/index.html",
+		"/D/@themightyNJ/WebDev/Assignment/Bootstrap_Assignment/css/index.css",
+		"/D/@themightyNJ/WebDev/Assignment/Bootstrap_Assignment/css/style.css",
+		"/D/@themightyNJ/WebDev/Navbar.html",
+		"/D/@themightyNJ/WebDev/Web-Development-master/Module 2 - Bootstrap/Topic 01 - Introduction/Using bootstrap.min.css/bootstrap_online_link.html",
+		"/D/@themightyNJ/WebDev/Web-Development-master/Module 1 - HTML and CSS/Topic 06 - Hyperlinks/Creating Hyperlinks/hyperlinks.html",
+		"/D/@themightyNJ/WebDev/Web-Development-master/Module 2 - Bootstrap/Topic 04 - Jumbotron & Glyphicons/Glyphicons/user_glyphicon.html",
+		"/D/@themightyNJ/WebDev/Assignment/Bootstrap_Assignment/products.html",
+		"/D/@themightyNJ/WebDev/Assignment/bootstrap tut/Bootstrap_Assignment/index.html",
+		"/D/@themightyNJ/WebDev/Assignment/bootstrap tut/Navbar.html",
+		"/D/@themightyNJ/WebDev/Assignment/bootstrap tut/Bootstrap_Assignment/css/index.css",
+		"/D/@themightyNJ/WebDev/Assignment/bootstrap tut/Bootstrap_Assignment/loginPage.html",
+		"/D/@themightyNJ/WebDev/Assignment/bootstrap tut/Bootstrap_Assignment/signupPage.html",
+		"/D/@themightyNJ/WebDev/Assignment/bootstrap tut/Bootstrap_Assignment/productPage.html",
+		"/D/@themightyNJ/WebDev/Assignment/bootstrap tut/Bootstrap_Assignment/cartPage.html",
+		"/D/@themightyNJ/WebDev/Assignment/bootstrap tut/Bootstrap_Assignment/settings.html",
+		"/D/@themightyNJ/WebDev/Assignment/bootstrap tut/Bootstrap_Assignment/successPage.html",
+		"/D/@themightyNJ/WebDev/bootstrap tut/img.html",
+		"/D/@themightyNJ/WebDev/bootstrap tut/Navbar.html",
+		"/D/@themightyNJ/WebDev/bootstrap tut/jquery.js",
+		"/D/@themightyNJ/WebDev/Assignment/css/index.css",
+		"/D/@themightyNJ/WebDev/Html Test/getting_started.html",
+		"/D/@themightyNJ/WebDev/Assignment/index.html",
+		"/D/@themightyNJ/WebDev/Assignment/test1.html",
+		"/D/@themightyNJ/WebDev/Assignment/index.css",
+		"/D/@themightyNJ/WebDev/Assignment/assignment.html",
+		"/D/@themightyNJ/WebDev/Html Test/getting_started.sublime-workspace",
+		"/C/Users/atulj/Desktop/@themightyNJ/WebDev/internIndex.html",
+		"/C/Users/atulj/Desktop/@themightyNJ/WebDev/Html Test/getting_started.html",
+		"/C/Users/atulj/Desktop/@themightyNJ/WebDev/intern.html",
+		"/C/Users/atulj/Desktop/VERTEX/shopping.py",
+		"/C/Users/atulj/Desktop/VERTEX/shopping",
+		"/C/Users/atulj/Desktop/WebDev/Html Test/getting_started.html",
+		"/C/MAMP/htdocs/demo.css/css/main.css",
+		"/C/MAMP/htdocs/demo.css/index.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1655,
+								1655
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 627.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
